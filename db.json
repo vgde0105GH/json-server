@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "admin@email.com",
+      "password": "$2a$10$X6Qyabkl6urEAc7w2N7ND.3go3CmgHpZttFiTmWF54esfPf8GZB/a",
+      "id": 1,
+      "isAdmin": true
+    }
+  ],
+  "posts": [
+  {
+      "Title": "Meu Primeiro Post",
+      "Content": "Olá Pessoal!",
+      "Image": "Null",
+      "Author": "Victor",
+      "Likes": "2",
+      "Comments": "0",
+      "id": 5
+    },
+    {
+      "Title": "Segundo Post",
+      "Content": "Esse é Outro Post",
+      "Image": "Null",
+      "Author": "Victor",
+      "Likes": "5",
+      "Comments": "1",
+      "id": 6
+    }
+    
+     
+    
+  ],
+  "coments": [
+    0
+  ]
+}
